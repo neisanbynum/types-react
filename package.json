@@ -1,6 +1,6 @@
 {
   "name": "types-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common types used across neisanbynum components and libraries.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
