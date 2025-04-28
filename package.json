@@ -1,0 +1,41 @@
+{
+  "name": "types-react",
+  "version": "1.0.0",
+  "description": "Common types used across neisanbynum components and libraries.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no tests yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neisanbynum/types-react.git"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "react",
+    "utils",
+    "common"
+  ],
+  "author": "Nathan Bynum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neisanbynum/types-react/issues"
+  },
+  "homepage": "https://github.com/neisanbynum/types-react#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "@types/react": "^19.1.2"
+  },
+  "peerDependencies": {
+    "react": ">=18"
+  }
+}
