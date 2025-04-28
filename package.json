@@ -32,8 +32,8 @@
   },
   "homepage": "https://github.com/neisanbynum/types-react#readme",
   "devDependencies": {
-    "typescript": "^5.8.3",
-    "@types/react": "^19.1.2"
+    "@types/react": "^19.1.2",
+    "typescript": "^5.8.3"
   },
   "peerDependencies": {
     "react": ">=18"
