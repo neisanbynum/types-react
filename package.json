@@ -14,6 +14,7 @@
 		}
 	},
 	"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
 		"build": "tsc",
 		"publish:package": "pnpm run build && npm publish"
 	},
