@@ -1,5 +1,5 @@
 {
-	"name": "@neisanbynum/types-react",
+	"name": "@neisanworks/types-react",
 	"version": "1.0.3",
 	"description": "Common types used across neisanbynum components and libraries.",
 	"main": "./dist/index.js",
@@ -20,7 +20,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/neisanbynum/types-react.git"
+		"url": "git+https://github.com/neisanworks/types-react.git"
 	},
 	"keywords": [
 		"typescript",
@@ -32,9 +32,9 @@
 	"author": "Nathan Bynum",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/neisanbynum/types-react/issues"
+		"url": "https://github.com/neisanworks/types-react/issues"
 	},
-	"homepage": "https://github.com/neisanbynum/types-react#readme",
+	"homepage": "https://github.com/neisanworks/types-react#readme",
 	"devDependencies": {
 		"@types/react": "^19.1.2",
 		"typescript": "^5.8.3"
